@@ -3,6 +3,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.vercel.pwa_counter.twa",
-        "sha256_cert_fingerprints": ["E2:A9:AA:26:35:FD:82:D9:E0:08:BA:9A:64:B9:47:DF:C4:4B:24:D7:2B:B5:1E:63:DF:57:4C:0F:E5:55:34:86"]
+        "sha256_cert_fingerprints": ["E2:A9:AA:26:35:FD:82:D9:E0:08:BA:9A:64:B9:47:DF:C4:4B:24:D7:2B:B5:1E:63:DF:57:4C:0F:E5:55:34:86",
+        "81:77:6A:28:E0:2B:A0:CD:6F:AE:4D:78:92:65:20:C8:7D:2B:2C:79:91:42:9A:EA:E9:8C:D4:A9:09:9F:28:EE"]
       }
     }]
