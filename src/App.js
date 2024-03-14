@@ -9,9 +9,9 @@ function App() {
       <header className="App-header">
         <p>Counter PWA with React</p>
         <div>
-          <button onClick={() => setCount(count - 1)}>-</button>
+          <button style={{padding : 6}} onClick={() => setCount(count - 1)}>-</button>
           <span style={{ margin: '0 10px' }}>{count}</span>
-          <button onClick={() => setCount(count + 1)}>+</button>
+          <button style={{padding : 5}} onClick={() => setCount(count + 1)}>+</button>
         </div>
       </header>
     </div>
